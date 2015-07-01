@@ -1,0 +1,27 @@
+﻿<Properties StartupItem="BaneOfTheLiving\BaneOfTheLiving.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" ActiveRuntime="Mono 2.10.2 (tarball)&#xD;&#xA;Copyright)" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="BaneOfTheLiving\UI.cs">
+    <Files>
+      <File FileName="BaneOfTheLiving\Main.cs" Line="21" Column="36" />
+      <File FileName="BaneOfTheLiving\Map.cs" Line="1" Column="1" />
+      <File FileName="BaneOfTheLiving\Queue.cs" Line="1" Column="1" />
+      <File FileName="BaneOfTheLiving\Global.cs" Line="1" Column="1" />
+      <File FileName="BaneOfTheLiving\Actor.cs" Line="567" Column="21" />
+      <File FileName="BaneOfTheLiving\Player.cs" Line="1" Column="1" />
+      <File FileName="BaneOfTheLiving\Job.cs" Line="1" Column="1" />
+      <File FileName="BaneOfTheLiving\UI.cs" Line="224" Column="43" />
+      <File FileName="BaneOfTheLiving\PhysicalObject.cs" Line="1" Column="1" />
+      <File FileName="BaneOfTheLiving\Tile.cs" Line="1" Column="1" />
+      <File FileName="BaneOfTheLiving\Mouse.cs" Line="422" Column="28" />
+      <File FileName="BaneOfTheLiving\Utility.cs" Line="1" Column="1" />
+      <File FileName="BaneOfTheLiving\TextPanel.cs" Line="14" Column="3" />
+      <File FileName="BaneOfTheLiving\AI.cs" Line="1" Column="1" />
+      <File FileName="BaneOfTheLiving\Skill.cs" Line="1" Column="1" />
+      <File FileName="BaneOfTheLiving\GL.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
